@@ -4,4 +4,3 @@
 - ## Monitor: André Casimiro
 - ## Linguagem Utilizada: 
     [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://www.learn-c.org/)
-- ## Link das questões [Questões](https://docs.google.com/document/d/1wNXih8HB-0KNVttSNDCg9pD84EsKVlSiS2sZO2xb234/edit?usp=sharing)
