@@ -1,0 +1,1 @@
+# Esta pasta se refere á criação de lista de questões sobre a estrutura de repetição ***WHILE*** que serão aplicadas na monitoria de *Linguagem de programação* para o curso de **Mecatrônica** do ***Instituto Federal de Ciência e Tecnologia Campus Cedro***
